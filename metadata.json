@@ -1,0 +1,6 @@
+{
+  "name": "Mango Slippers",
+  "description": "Official catalog and showroom for Mango Slippers manufactured by MANGO INDUSTRY in Giriulla, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
